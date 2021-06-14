@@ -20,7 +20,7 @@ body {
   background: url("slides_tech_startup_sky_lin.svg");
   background-color: #7a071c;
   background-size: cover;
-  background-position: center;
+  background-position: right;
   background-repeat: no-repeat;
   position: relative;
   text-align: center;
@@ -57,7 +57,7 @@ body {
 }
 
 .item_right {
-  float: left;
+  float: right;
   width: 40%;
 }
 
